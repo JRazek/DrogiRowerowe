@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/user/CLionProjects/DrogiRowerowe/build/default",
+  "command": "/usr/bin/g++      -o CMakeFiles/DrogiRowerowe.dir/main.cpp.o -c /home/user/CLionProjects/DrogiRowerowe/main.cpp",
+  "file": "/home/user/CLionProjects/DrogiRowerowe/main.cpp"
+}
+]
